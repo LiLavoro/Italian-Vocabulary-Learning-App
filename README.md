@@ -6,7 +6,7 @@ An AI-assisted Italian vocabulary learning app for vocabulary review, sentence p
 
 ## Try the Demo
 
-1. Open the **Live Demo** and choose **Browse first, log in later** (Chinese: **先体验一下，稍后登录**) to explore without creating an account.
+1. Open the **Live Demo** and choose **Browse first, log in later** to explore without creating an account.
 2. If the vocabulary assessment appears, complete it or skip it. Use the home-page language selector to choose English.
 3. Explore dictionary lookup and word details. Review cards become available as saved words become due.
 4. AI explanations, sentence feedback and generated shadowing content may require your own supported API key in **Settings**. Without a configured service, these features may be unavailable; the screenshots below illustrate a configured session.
