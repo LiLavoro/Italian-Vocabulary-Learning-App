@@ -4,6 +4,46 @@ An AI-assisted Italian vocabulary learning app for vocabulary review, sentence p
 
 [**Live Demo**](https://3b59dfb43ad84cc18294a37d89970a7d.app.codebuddy.work/)
 
+## Try the Demo
+
+1. Open the **Live Demo** and choose **Browse first, log in later** (Chinese: **先体验一下，稍后登录**) to explore without creating an account.
+2. If the vocabulary assessment appears, complete it or skip it. Use the home-page language selector to choose English.
+3. Explore dictionary lookup and word details. Review cards become available as saved words become due.
+4. AI explanations, sentence feedback and generated shadowing content may require your own supported API key in **Settings**. Without a configured service, these features may be unavailable; the screenshots below illustrate a configured session.
+
+**Current demo limitations:** some translations and status text remain Chinese even with the English interface selected. Audio and recording depend on browser/device support; recording requires microphone permission. AI outputs can be inaccurate and should be checked. Shadowing uses listening, recording and self-review, without automated pronunciation scoring.
+
+## Screenshots
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="screenshots/01-vocabulary.png" alt="Word details for ferie with AI-labelled meaning, related vocabulary and an example" width="300"><br>
+      <b>Vocabulary details</b><br>
+      AI-labelled meaning, related vocabulary and a bilingual example.
+    </td>
+    <td align="center" width="50%">
+      <img src="screenshots/02-review.png" alt="Vocabulary review card with Forgot, Fuzzy and Got it controls" width="300"><br>
+      <b>Vocabulary review</b><br>
+      Recall a word and choose Forgot, Fuzzy or Got it.
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="screenshots/03-ai-sentence-feedback.png" alt="Actual AI feedback correcting Io ha to Io ho in an Italian practice sentence" width="300"><br>
+      <b>AI sentence feedback</b><br>
+      A real practice submission: “Io ha…” is corrected to “Io ho…”.
+    </td>
+    <td align="center" width="50%">
+      <img src="screenshots/04-shadowing.png" alt="Shadowing sentence with original audio and recording controls" width="300"><br>
+      <b>Shadowing practice</b><br>
+      Original-audio playback and recording controls for self-review.
+    </td>
+  </tr>
+</table>
+
+Captured from the [app instance used for the screenshots](https://9c590504dcf647afa1ae7ad5c12704c3.app.codebuddy.work/) on 5 November 2026. These show an existing learning session with AI configured; a new visitor's data and available content may differ. The interface is set to English, while some saved meanings, feedback and status text remain Chinese. Screenshots show actual outputs, not a formal quality evaluation.
+
 ## Why I Built It
 
 I started this project from my own experience of learning Italian.
@@ -104,10 +144,9 @@ Planned next steps include:
 - refining the review workflow based on feedback
 - improving the reliability and consistency of AI-generated feedback
 
-## Screenshots
-
-Screenshots of the main learning workflows will be added here.
-
 ## Project Status
 
 Independent personal project · 2026–Present
+
+This public repository is a portfolio case study with documentation and screenshots. Application source code is not included.
+
