@@ -2,16 +2,19 @@
 
 An AI-assisted Italian vocabulary learning app for vocabulary review, sentence practice and shadowing.
 
-[**Live Demo**](https://3b59dfb43ad84cc18294a37d89970a7d.app.codebuddy.work/)
+[**Try the interactive demo — no sign-in or API key required**](https://f2bd6a26ea564308bb3f1a3f31f50704.app.codebuddy.work/?demo=1)
 
 ## Try the Demo
 
-1. Open the **Live Demo** and choose **Browse first, log in later** to explore without creating an account.
-2. If the vocabulary assessment appears, complete it or skip it. Use the home-page language selector to choose English.
-3. Explore dictionary lookup and word details. Review cards become available as saved words become due.
-4. AI explanations, sentence feedback and generated shadowing content may require your own supported API key in **Settings**. Without a configured service, these features may be unavailable; the screenshots below illustrate a configured session.
+1. Open the **interactive demo** and select **Start the guided demo**.
+2. Follow one word through vocabulary details, saved AI sentence feedback, flashcard review and speaking practice.
+3. On the completion page, select **Explore another saved AI example** to see how a saved AI explanation filled a missing meaning on another card, with an English summary.
 
-**Current demo limitations:** some translations and status text remain Chinese even with the English interface selected. Audio and recording depend on browser/device support; recording requires microphone permission. AI outputs can be inaccurate and should be checked. Shadowing uses listening, recording and self-review, without automated pronunciation scoring.
+The portfolio demo uses sample data and saved AI outputs. It requires no account or API key and does not generate responses live.
+
+**Demo scope:** audio uses browser text-to-speech. Recording and automated pronunciation scoring are not included in the demo. Some saved content is Chinese; the additional AI-meaning example includes an English summary. Browser audio availability depends on the device.
+
+[Open the full application](https://3b59dfb43ad84cc18294a37d89970a7d.app.codebuddy.work/) to explore the wider feature set. Guest browsing is available; live AI features may require your own supported API key in **Settings**. AI outputs can be inaccurate and should be checked. The screenshots below show the full application in an existing configured session.
 
 ## Screenshots
 
@@ -149,4 +152,5 @@ Planned next steps include:
 Independent personal project · 2026–Present
 
 This public repository is a portfolio case study with documentation and screenshots. Application source code is not included.
+
 
