@@ -41,7 +41,7 @@ The demo uses sample data and saved AI responses. It does not generate new respo
   </tr>
 </table>
 
-Screenshots from the [full app](https://9c590504dcf647afa1ae7ad5c12704c3.app.codebuddy.work/), taken on 5 November 2026. They show my existing study session, including saved AI responses. Some meanings and feedback are in Chinese. The guided demo uses a smaller set of sample data.
+Screenshots from the [full app](https://3b59dfb43ad84cc18294a37d89970a7d.app.codebuddy.work/), taken on 5 November 2026. They show my existing study session, including saved AI responses. Some meanings and feedback are in Chinese. The guided demo uses a smaller set of sample data.
 
 ## Why I Built It
 
@@ -87,6 +87,15 @@ I worked on one feature at a time: describe what I needed, try the implementatio
 
 One recent decision was how to let a visitor try the app without setting up an AI key. I added a short guided demo using saved responses. It shows the correction and meaning examples, labels their source, and keeps the visitor's actions separate from my study data.
 
+## Product Decisions
+
+- **Let visitors try the workflow without setup.** The guided demo uses saved AI responses and sample data so visitors do not need an account or API key. This makes the walkthrough repeatable, but it cannot demonstrate live model quality.
+- **Keep AI content identifiable.** Dictionary entries, generated material and review records are kept separate. Saved AI examples are labelled so visitors can see what came from AI.
+
+## Evaluation
+
+I manually tested vocabulary review and AI sentence feedback to guide bug fixes and prompt changes. The demo shows two saved cases: correcting “Io ha” to “Io ho”, and adding a missing meaning to a *diventare* card. These are functional examples, not a completed accuracy study. Checking a sample of meanings against dictionary references and testing with other learners remain next steps.
+
 ## Tech Stack
 
 - React
@@ -108,4 +117,3 @@ One recent decision was how to let a visitor try the app without setting up an A
 Independent personal project · 2026–Present
 
 This repository contains the project description and screenshots. Application source code is not included.
-
