@@ -10,7 +10,7 @@ Select **Start the guided demo** to try word details, sentence feedback, a revie
 
 The demo uses sample data and saved AI responses. It does not generate new responses. Audio uses browser text-to-speech; recording and pronunciation scoring are not part of the demo.
 
-[Open the full app](https://3b59dfb43ad84cc18294a37d89970a7d.app.codebuddy.work/) for the other features shown below. You can browse as a guest. Live AI features may need your own supported API key in **Settings**. The screenshots show the full app with AI already configured.
+[Open the full app](https://italiano-vocab-app.lilavoro.workers.dev/) for the other features shown below. You can browse as a guest. Live AI features may need your own supported API key in **Settings**. The screenshots show the full app with AI already configured.
 
 ## Screenshots
 
@@ -41,7 +41,7 @@ The demo uses sample data and saved AI responses. It does not generate new respo
   </tr>
 </table>
 
-Screenshots from the [full app](https://3b59dfb43ad84cc18294a37d89970a7d.app.codebuddy.work/), taken on 5 November 2026. They show my existing study session, including saved AI responses. Some meanings and feedback are in Chinese. The guided demo uses a smaller set of sample data.
+Screenshots from the [full app](https://italiano-vocab-app.lilavoro.workers.dev/), taken on 5 November 2026. They show my existing study session, including saved AI responses. Some meanings and feedback are in Chinese. The guided demo uses a smaller set of sample data.
 
 ## Why I Built It
 
