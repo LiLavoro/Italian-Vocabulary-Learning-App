@@ -2,7 +2,7 @@
 
 A personal Italian study app, built with AI-assisted coding tools.
 
-[**Try the demo**](https://f2bd6a26ea564308bb3f1a3f31f50704.app.codebuddy.work/?demo=1) — no sign-in or API key needed.
+[**Try the demo**](https://italiano-vocab-app.lilavoro.workers.dev/?demo=1) — no sign-in or API key needed.
 
 ## Try the Demo
 
